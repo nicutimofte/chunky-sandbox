@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.m \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Target\ Support\ Files/Protobuf/Protobuf-prefix.pch \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBBootstrap.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBArray.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBRuntimeTypes.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBCodedInputStream.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBCodedOutputStream.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBWireFormat.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBDescriptor.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBDictionary.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBExtensionRegistry.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBMessage.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBRootObject.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBUnknownField.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBUtilities.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBWellKnownTypes.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBExtensionInternals.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h \
+  /Users/macbookpro/Desktop/fullstack/renovators/webapp-chunky/ios/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h

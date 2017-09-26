@@ -1,0 +1,30 @@
+{
+  "name": "renovators-dev",
+  "template": "default",
+  "id": "ro.renovezcasa",
+  "androidSdkDir": "~/Library/Android/sdk",
+  "sections": {
+    "start": {
+      "stack": [
+        "intro"
+      ],
+      "hideHeader": true
+    }
+  },
+  "transitions": [
+    "replace://start"
+  ],
+  "provisioning": {},
+  "theme": {
+    "progressColor": "rgba(50,50,50,0.9)",
+    "primaryColor": "#43A047",
+    "statusBarLight": false,
+    "navigationColor": "#607D8B",
+    "navigationTintColor": "#37474F",
+    "backgroundColor": "#FAFAFA",
+    "mailchimp": {
+      "uuid": "bc8cd971110391bd4238443e2",
+      "lid": "d9ecfac2bf"
+    }
+  }
+}

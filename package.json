@@ -1,0 +1,26 @@
+{
+  "name": "MyChunkyProduct",
+  "version": "0.1.0",
+  "description": "This is an awesome Chunky product",
+  "scripts": {
+    "test": "react-native-savor test",
+    "lint": "react-native-savor lint",
+    "coverage": "react-native-savor coverage",
+    "codeclimate": "react-native-savor codeclimate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-chunky/react-chunky.git"
+  },
+  "homepage": "https://github.com/react-chunky/react-chunky",
+  "dependencies": {
+    "react-native-chunky": "0.x",
+    "react-dom-chunky": "0.x",
+    "react-chunky-auth-chunk": "0.x",
+    "react-chunky-list-chunk": "0.x"
+  },
+  "devDependencies": {
+    "react-native-savor": "0.x",
+    "react-savor": "0.x"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35195374649",
+    "firebase_url": "https://renovators-dev.firebaseio.com",
+    "project_id": "renovators-dev",
+    "storage_bucket": "renovators-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35195374649:android:8dc454905db9cbef",
+        "android_client_info": {
+          "package_name": "ro.renovezcasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35195374649-also340d7mdg2gu1lgai4u5t70a6kjqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB005AfTikRiUxTqdiQ5F7MfaKAmHa_KJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+  "apiKey": "AIzaSyAIT7hVTmpUAV-IvX4r88eu4K4cJJBBd1E",
+  "authDomain": "renovators-dev.firebaseapp.com",
+  "databaseURL": "https://renovators-dev.firebaseio.com",
+  "projectId": "renovators-dev",
+  "storageBucket": "renovators-dev.appspot.com",
+  "messagingSenderId": "35195374649"
+}
