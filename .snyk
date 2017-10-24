@@ -79,6 +79,20 @@ patch:
   'npm:marked:20170112':
     - react-dom-chunky > marked:
         patched: '2017-10-11T21:11:01.871Z'
+    - react-chunky-auth-chunk > react-dom-chunky > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-dom-chunky > markdown-loader > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-chunky-auth-chunk > react-dom-chunky > markdown-loader > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-dom-chunky > react-chunky > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-chunky-auth-chunk > react-dom-chunky > react-chunky > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-native-chunky > react-chunky > marked:
+        patched: '2017-10-24T16:44:38.297Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-chunky > marked:
+        patched: '2017-10-24T16:44:38.297Z'
   'npm:ms:20170412':
     - react-native-chunky > react-native > connect > connect-timeout > ms:
         patched: '2017-10-11T21:11:01.871Z'
