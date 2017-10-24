@@ -20,7 +20,7 @@
     "react-dom-chunky": "0.x",
     "react-chunky-auth-chunk": "0.x",
     "react-chunky-list-chunk": "0.x",
-    "snyk": "^1.42.6"
+    "snyk": "^1.45.0"
   },
   "devDependencies": {
     "react-native-savor": "0.x",
