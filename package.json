@@ -6,7 +6,9 @@
     "test": "react-native-savor test",
     "lint": "react-native-savor lint",
     "coverage": "react-native-savor coverage",
-    "codeclimate": "react-native-savor codeclimate"
+    "codeclimate": "react-native-savor codeclimate",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -17,10 +19,12 @@
     "react-native-chunky": "0.x",
     "react-dom-chunky": "0.x",
     "react-chunky-auth-chunk": "0.x",
-    "react-chunky-list-chunk": "0.x"
+    "react-chunky-list-chunk": "0.x",
+    "snyk": "^1.42.6"
   },
   "devDependencies": {
     "react-native-savor": "0.x",
     "react-savor": "0.x"
-  }
+  },
+  "snyk": true
 }
