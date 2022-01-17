@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.7.1
+version: v1.22.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -207,3 +207,55 @@ patch:
         patched: '2017-10-11T21:11:01.871Z'
     - react-chunky-auth-chunk > react-native-chunky > react-native > connect > serve-index > accepts > negotiator:
         patched: '2017-10-11T21:11:01.871Z'
+  'npm:extend:20180424':
+    - react-dom-chunky > react-chunky > mailchimp-v3 > superagent > extend:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-native-chunky > react-chunky > mailchimp-v3 > superagent > extend:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-dom-chunky > react-chunky > mailchimp-v3 > superagent > extend:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-chunky > mailchimp-v3 > superagent > extend:
+        patched: '2022-01-17T14:32:28.142Z'
+  'npm:hoek:20180212':
+    - react-native-chunky > react-native > joi > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-native-chunky > react-native > joi > topo > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-native > joi > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-native > joi > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-native > joi > topo > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-native > joi > topo > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-chunky > remote-redux-devtools-on-debugger > remotedev-server > socketcluster > sc-auth > sc-jsonwebtoken > joi > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-chunky > remote-redux-devtools-on-debugger > remotedev-server > socketcluster > sc-auth > sc-jsonwebtoken > joi > topo > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-chunky > remote-redux-devtools-on-debugger > remotedev-server > socketcluster > socketcluster-server > sc-auth > sc-jsonwebtoken > joi > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-chunky > remote-redux-devtools-on-debugger > remotedev-server > socketcluster > socketcluster-server > sc-auth > sc-jsonwebtoken > joi > topo > hoek:
+        patched: '2022-01-17T14:32:28.142Z'
+  'npm:lodash:20180130':
+    - react-native-chunky > react-native > plist > xmlbuilder > lodash:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-native > plist > xmlbuilder > lodash:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-native > plist > xmlbuilder > lodash:
+        patched: '2022-01-17T14:32:28.142Z'
+  'npm:mime:20170907':
+    - react-dom-chunky > react-chunky > mailchimp-v3 > superagent > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-native-chunky > react-chunky > mailchimp-v3 > superagent > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-dom-chunky > react-chunky > mailchimp-v3 > superagent > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-chunky > mailchimp-v3 > superagent > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-native-chunky > react-native > connect > serve-static > send > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-auth-chunk > react-native-chunky > react-native > connect > serve-static > send > mime:
+        patched: '2022-01-17T14:32:28.142Z'
+    - react-chunky-list-chunk > react-native-chunky > react-native > connect > serve-static > send > mime:
+        patched: '2022-01-17T14:32:28.142Z'

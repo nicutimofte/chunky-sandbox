@@ -7,7 +7,7 @@
     "lint": "react-native-savor lint",
     "coverage": "react-native-savor coverage",
     "codeclimate": "react-native-savor codeclimate",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepublish": "npm run snyk-protect"
   },
   "repository": {
@@ -17,10 +17,10 @@
   "homepage": "https://github.com/react-chunky/react-chunky",
   "dependencies": {
     "react-native-chunky": "0.x",
-    "react-dom-chunky": "0.x",
+    "react-dom-chunky": "1.3.0",
     "react-chunky-auth-chunk": "0.x",
     "react-chunky-list-chunk": "0.x",
-    "snyk": "^1.45.0"
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "react-native-savor": "0.x",
